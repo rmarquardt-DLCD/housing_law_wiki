@@ -1,19 +1,72 @@
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
-- question: "text"
-  answer: "text"
+- question: "There is case law (LUBA “Strawberry Hill” decision) that informs whether a zone change application is considered a legislative or quasi-judicial decision. What if our legal counsel informs us that a proposed zone change that allows for a denser residential use designation is a legislative decision?"
+  answer: "We recommend continuing to consult legal counsel. ORS 197A.146 establishes a new procedure for zone changes to allow a denser residential use designation and notes explicitly that the application “is not subject to the requirements of ORS 197.797” and that “the initial decision on the application must be made without a hearing”. There is no further clarification in statute as to the status of such a decision as legislative versus quasi-judicial."
   
+- question: "Is a comprehensive plan change subject to the procedural requirements in ORS 197A.146?"
+  answer: "Statute only lists a zone change for denser residential development as subject to the procedural requirements in ORS 197A.146.
+  
+  A few local governments in the state use a “one map” system (combined comprehensive plan and zoning map). The applicability of ORS 197A.146(1)(a) is not clear for these situations. Unfortunately, there isn’t an approach this office can suggest to minimize risk. Processing an application as a quasi-judicial or legislative action would not be in conformance with the procedural requirements of ORS 197A.146 if the application is deemed to be “A zone change to allow for a denser residential use designation.” Processing the application pursuant to ORS 197A.146(4) – (7) would not comply with statutes for quasi-judicial or legislative actions if the action is deemed to be an application subject to those requirements. Consultation with the local government’s legal counsel is recommended."
+  
+- question: "What qualifies as a denser residential use designation (a.k.a. upzoning)?"
+  answer: "The statutes does not further specify or define how a denser residential use designation is 
+determined. Therefore, it is not necessarily clear whether the statute is referring exclusively to “unit 
+density” or other forms of density, such as the number of individuals per unit of land. A zoning 
+designation could be considered denser if it increases either the minimum required or maximum allowed units per acre. Similarly, zoning changes that decrease the minimum or maximum lot  size are also considered denser designations, as lot size is another land use regulation that  directly affects residential unit density. It is less clear if other standards that indirectly increase the resultant effective density of development, such as floor area ratio or regulations relating to the allowable buildable envelope, qualify as denser designations, especially in zones that do not regulate unit density."
+
+- question: "We have zones where mixed use development does not have a minimum or maximum 
+residential density standards. The maximum number of possible units is limited only by 
+the size of the units and the development regulations for height, setback, and FAR. Is changing from a residential zone with defined minimum and maximum density standards to the mixed-use zones without these standards a “denser residential density”?"
+  answer: "This will depend on the specifics of the proposed mixed-use zone. If the applicant asserts 
+that the zone change qualifies for the review procedures in this bill, it is recommended that the 
+application include an analysis and findings to support that the proposed zone change is a 
+denser residential use. A density analysis for a zone without specific residential density 
+standards might include assumptions about developable floor area and residential unit size. 
+Where there is subjective interpretation about density, there is risk that a local government can 
+use the incorrect review procedure. Local governments are advised to consult their legal 
+counsel on how the statute applies to the specific facts of a proposed rezone."
+
+- question: "Does this apply to zone changes that do not include a development proposal?"
+  answer: "No. ORS 197A.146(1) “applies only to a land use decision for residential development based on an 
+application for… a zone change to allow for a denser residential use designation.” "
+
+- question: "Does this process apply to zone changes initiated by the jurisdiction as well as those 
+initiated by property owners?"
+  answer: "It is not clear. The statute does not differentiate based on what entity initiates the zone change. 
+However, the bill indicates that the section “applies only to a land use decision for residential 
+development based on an application for: [A zone change to allow for a denser residential use 
+designation].” While this precludes zone changes that do not include an application for 
+residential development, it does not necessarily preclude zone changes initiated by the 
+jurisdiction. We recommend consulting legal counsel for further clarity."
+
+- question: "Could a zoning text amendment be subject to this section?"
+  answer: "It is not clear. A zoning text amendment will necessarily be a legislative decision. The bill 
+creates an administrative review framework for applications for residential development that include a zone change to allow for a denser residential use designation. HAPO staff would not 
+expect this situation to be a common occurrence since zoning text amendments are not usually 
+directly associated with a land use decision for residential development. We recommend 
+consulting legal counsel for further clarity."
+
+- question: "We have a proposed zone change that will apply a zone that increases residential 
+density while also disallowing some uses allowed with the current zoning. Measure 56 
+(ORS 227.186; 215.503) requires notice with specific text about a hearing. How do we 
+comply with this new statute and the Measure 56 requirements?"
+  answer: "This section of the bill applies only to land use decisions for residential development. Both 
+notice requirements are in effect and local governments must comply with them when 
+applicable. We recommend consulting legal counsel on the precise application of each 
+requirement for an individual development application."
+
+- question: "Does ORS 197A.400(5) apply to every application that is “subject to subsection (1),” including an application for residential development that proceeds under a locally adopted alternative process authorized by ORS 197A.400(3), so long as the application remains within the housing universe governed by subsection (1)?"
+  answer: "ORS 197A.400(1) establishes a requirement for local governments to adopt and apply only clear and objective standards, conditions and procedures regulating the development of housing.1 ORS 197A.400(3) further authorizes a local government to establish an alternative approval process that is not clear and objective provided the process meet specified statutory parameters, including that the applicant “retains the option of proceeding under the approval process that meets the requirements of subsection (1)…” Subsection (5) specifically applies “for applications subject to subsection (1)” (i.e. clear and objective standards, conditions and procedures). HAPO understands the legislative intent behind this provision to apply only to applications reviewed under clear and objective standards, conditions, and procedures. On February 15, 2026, the following was read into the legislative record when summarizing the relevant section of proposed HB 4037: “Section 17 would require that all housing development applications that are going through the clear and objective review pathway are reviewed without a public hearing process.” Based on review of testimony relating to Section 17, testimony in opposition and support generally recognized this provision as applying to clear and objective review processes. HAPO did not identify a construction in submitted testimony of this provision also applying to optional, discretionary alternative review processes under ORS 197A.400(3)."
+  
+  - question: "Does ORS 197A.400(5)(a) limit only the recipients of the local government’s housing-application notice under ORS 197A.400, or does it also displace independent notice or referral duties imposed by other statutes, including but not limited to DSL wetland notices, Department of Aviation notices, railroad/ODOT notices, airport-owner notices, and DLCD notice requirements for legislative amendments?"
+  answer: "Subsection (1) authorizes local governments to “adopt and apply only clear and objective standards, conditions and procedures” regulating the development of housing and tree removal related to the development of housing, except as provided in ORS 197A.400(3). Subsection (5) further requires local governments, in administering procedures for review of applications under subsection (1), to provide notice of the application “only to owners of record of property on the most recent property tax assessment roll” within specified distances to the subject property. The statute does not speak to independent notice obligations imposed by other state laws. The law does not displace the general regulatory review authority of state and local governments. Additionally, the term “notice” is not defined in statute. However, HAPO recognizes the limitation on notice creates ambiguity where the notice serves as the primary mechanism by which reviewing authorities are informed of a given application. HAPO could not find acknowledgement in the legislative record of this provision prohibiting the ability of review authorities sharing relevant information regarding a development application that they have regulatory authority over. Additionally, the limitation in ORS 197A.400(5)(a) is specific to only the “notice of the application”, it does not speak to nor specifically limit independent notices to review authorities identified in other areas of statute."
+  
+- question: "If a separate statute continues to require notice to a state agency, utility, transportation entity, or other recipient, does that separate notice carry any local appeal or LUBA standing consequence notwithstanding ORS 197A.400(5)(c) and (6), or is the effect of such notice limited to interagency coordination and permit/referral compliance?"
+  answer: "ORS 197A.400(5) speaks only to the appeal rights for a decision subject to subsection (1). It does not speak to the independent statutory authority of other state and local governments to review development for consistency with other applicable laws or rules."
+  
+  - question: "When a housing proposal is filed concurrently with a separate permit, infrastructure approval, or other application that independently requires broader notice, a hearing, or appeal opportunities, may the local government bifurcate those proceedings and process the housing application under ORS 197A.400(5) while processing the separate approval under its own statutory procedure?"
+  answer: "This relates to the extent to which the “development of housing” encompasses other concurrent land use applications. HAPO cannot further interpret this term beyond what is in statute."
+  
+- question: "If a local government, acting cautiously in an ambiguous case, provides broader notice than ORS 197A.400(5)(a) allows, or allows a third-party local appeal that ORS 197A.400(5)(c) later proves did not exist, what is the appropriate procedural remedy? Must the local government restart the process, dismiss the appeal, or take some other corrective step?"
+  answer: "The remedy to address a procedural error is specific to the context in which it occurs. This is not a question that can be answered in the abstract. HAPO recommends soliciting legal counsel to both reduce the likelihood of a future procedural error and to remedy an error should one occur."
+  
+  - question: "Because ORS 197A.400(5)(b) provides that a local government may not require a public hearing, please clarify whether a local government may nevertheless notify and/or receive written comments or agency responses for record-building purposes, and if so, whether those submissions have any effect on standing or appeal rights under subsection (6)."
+  answer: "ORS 197A.400(5) does not speak to whether a city may or may not receive written comments as part of an application. Generally, HAPO recommends following the procedures contained within a local government’s acknowledged land use regulations, except to conform with new statutory requirements as provided under ORS 197.646. We also cannot further elaborate on the effect of written comments on appeal rights, other than what is stated directly in ORS 197A.400(5)(c) and (6)." 
