@@ -1,15 +1,32 @@
 # Housing Law
 
-This field is the category or topic of housing law. My thinking is we utilize the same categories in our Smartsheet so there is parity between the two.
+Review Procedures for Housing Development.
 
 # Short Description
 
-This will be a very brief (~140 character) description of the housing law, similar to our current guidance doc but adapted to fit on the cards for each topic.
+The processing of land use applicaitons for residential development are goverened by multiple statutes regulating actions that are prescribed or proscribed.
 
 # Long Description
 
-This will be a longer description of the law accessed by clicking on the card. In terms of depth/detail, these will be comparable to the summaries of legislation in the 2025 Session Guidance doc, but adapted to describe the law as it is today (not how it has changed). The mandatory adjustment summary is also a comparable summary in terms of length/formatting.
+## Limited Land Use Decisions
+Limited land Review use decisions (LLUDs) are a specific category of land use applications in Oregon land use law. An excerpt from a LUBA Opinion provides useful context about limited land use decisions:
 
+*“As best we can determine, the 1991 limited land use decision legislation was intended to relieve local governments from having to comply with the complex procedural requirements applicable to quasi-judicial "land use decisions" and "permits," when making certain decisions on allowing permitted uses within urban growth boundaries. To that end, ORS 197.195(2) exempts limited land use decisions from the procedural requirements applicable to quasi-judicial "land use decisions" and "permits," and ORS 197.195(3) establishes a simpler set of procedural requirements for limited land use decisions.*
+
+[Barrick v. City of Salem, LUBA No. 94-013](https://www.oregon.gov/luba/Docs/Opinions/1994/06-94/94013.pdf)
+
+### Applicability
+
+ORS 197.015(12) specifically defines limited land use decision as:  
+Pertaining to a site within an Urban Growth Boundary, and;   
+An appliation for:
+* Preliminary partition or subdivision plat
+* Site Review or Design review based on discretionary standards regulating a use permitted outright
+* Replat
+* Property line adjustment
+* Nonconforming extension, alteration or expansion
+
+* 
 # Housing Project Examples
 
 This isn’t so much a field as it is a database where we can provide project examples that make use of a given law (or laws). We would enter the project name, description of the project (and how it used the relevant law), any associated images, and a housing law category that is filterable, so they show up on the right page.
